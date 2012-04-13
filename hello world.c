@@ -1,7 +1,5 @@
 #include <stdio.h>
 void main()
 {
-/*我是中文注释*/
-printf("hello world");
-//just test 
+printf("hello world");//我是中午注释
 }
