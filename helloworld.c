@@ -3,5 +3,5 @@ void main()
 {
 printf("hello world");//ÎÒÊÇÖĞÎç×¢ÊÍ
 //jsfs
-//i am new
+//i am new  new
 }
